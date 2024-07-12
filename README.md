@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate developer based in Canada</h3>
+<h3 align="center">A passionate Cloud developer based in Canada</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
