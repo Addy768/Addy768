@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Cloud developer based in Canada</h3>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZrZTdyN3FhdTVlNWI0bXQ0Nm90MmRibnp0ZHg0cWFzZ2k1MGxrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="90" height="90" />
+<img align="right" alt="Coding" height="200" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZrZTdyN3FhdTVlNWI0bXQ0Nm90MmRibnp0ZHg0cWFzZ2k1MGxrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" />
 
 
 <h3 align="left">Connect with me:</h3>
@@ -8,11 +8,16 @@
 </p>
 
 Let's explore more about me! :)
-🌱 I’m currently exploring AWS, Azure, and Cloud Automation.
-🤖 I’m a third-year computer science student with a strong interest in Cloud Computing and AI.
-🔭 I’m currently working on integrating Google Generative AI using the Gemini API.
-❓ Ask me about anything related to Cloud Services, DevOps, and Full-Stack Development.
-⚡ Fun fact: I love cooking and working out in my free time!
+- 🤖 I’m a Third-year computer science student and an aspiring software developer
+
+- 🔭 I’m currently working on learning how to create chrome extensions using TypeScript and JavaScript :)
+
+- 🌱 I’m currently exploring C++, Data Structure & Algorithms, Tensorflow and some mobile development technologies
+
+- ❓ Ask me about anything related to MERN stack and related technologies
+
+- ⚡ Fun fact: i love working and cooking in free time
+
 <br/>
 My Skill Set
 <table><tr><td valign="top" width="33%">
