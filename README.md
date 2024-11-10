@@ -16,7 +16,7 @@ Let's explore more about me! :)
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: i love working and cooking in free time
+- ⚡ Fun fact: i love going to gym and cooking in free time
 
 <br/>
 My Skill Set
