@@ -30,5 +30,7 @@ DevOps
 Connect with me
 <div align="center"> <a href="https://www.linkedin.com/in/aditya-sharma-625564281/" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" /> </a> <a href="https://www.linkedin.com/in/aditya-sharma-625564281/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" /> </a> </div> <br/>
 
-
+Github Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Addy768&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addy768&layout=pie)](https://github.com/Addy768/github-readme-stats)
+
