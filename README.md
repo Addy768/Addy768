@@ -7,16 +7,24 @@
 <p align="left">
 </p>
 
-Let's explore more about me! :)
-- 🤖 I’m a Third-year computer science student and an aspiring software developer
+Let's Explore More About Me!
 
-- 🔭 I’m currently working on learning how to create chrome extensions using TypeScript and JavaScript :)
+🤖 Who am I?
+- I’m a passionate third-year Computer Science student and an aspiring software developer with a strong focus on cloud computing and cutting-edge technologies.
 
-- 🌱 I’m currently exploring C++, Data Structure & Algorithms, Tensorflow and some mobile development technologies
+🔭 What am I currently working on?
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- Blockchain-Based Asset Tokenization: Developing an asset tokenization platform using Ethereum and Solidity, enabling secure and decentralized ownership management.
+- AI-Driven Customer Behavior Prediction: Building a system using Python and deep learning to analyze data and predict customer behavior patterns, optimizing business strategies.
 
-- ⚡ Fun fact: i love going to gym and cooking in free time
+🌱 What am I exploring?
+- I’m delving into C++, Data Structures & Algorithms, TensorFlow, and mobile development technologies to broaden my expertise.
+
+❓ What can you ask me about?
+- Feel free to ask me anything related to the MERN stack, cloud development, or blockchain technologies.
+
+⚡ Fun fact about me:
+- I love hitting the gym and experimenting with new recipes in my free time—it’s my way of staying creative and energized!
 
 <br/>
 My Skill Set
