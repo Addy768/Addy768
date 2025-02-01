@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZrZTdyN3FhdTVlNWI0bXQ0Nm90MmRibnp0ZHg0cWFzZ2k1MGxrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" alt="Coding" width="200" height="200">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZrZTdyN3FhdTVlNWI0bXQ0Nm90MmRibnp0ZHg0cWFzZ2k1MGxrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" alt="Coding">
 
   # Hi there, I'm Aditya! 👋
 
