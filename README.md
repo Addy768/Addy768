@@ -38,6 +38,14 @@ Feel free to reach out if you have any questions about:
 
 When I'm not coding, you can find me at the gym or in the kitchen experimenting with new recipes. It's my way of staying creative and energized!
 
+## Certifications  
+![AWS Certification](https://github.com/user-attachments/assets/ba9288dc-c27f-40be-8d07-f802f2a9ae97)  
+
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/3a2cd64b-81f1-42bf-837e-378c725a620e/linked_in?t=sqpd8g)  
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/certificate/9GSY75HPPYG8)  
+- [IBM Full Stack Developer](https://www.coursera.org/account/accomplishments/professional-cert/certificate/9GSY75HPPYG8)  
+
+
 ## 🛠️ My Skill Set
 
 <table>
